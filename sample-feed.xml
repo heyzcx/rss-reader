@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sample Feed</title>
+    <link>https://example.com/</link>
+    <description>A tiny sample feed for testing rss-reader.</description>
+    <item>
+      <title>First post</title>
+      <link>https://example.com/first</link>
+      <pubDate>Thu, 26 Nov 2026 10:00:00 GMT</pubDate>
+      <description>Hello from the sample feed.</description>
+    </item>
+    <item>
+      <title>Second post</title>
+      <link>https://example.com/second</link>
+      <pubDate>Wed, 25 Nov 2026 10:00:00 GMT</pubDate>
+      <description>Another entry for testing.</description>
+    </item>
+  </channel>
+</rss>
